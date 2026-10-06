@@ -1,1 +1,0 @@
-# linear_algebra_6_weeks_works
